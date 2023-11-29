@@ -1,0 +1,44 @@
+
+  // const [editContacts, dispatchEditContact] = useReducer(contactReducer, {
+  //   status: false,
+  // });
+  // console.log({ contacts });
+
+  // const getContactsFromLocalStorage
+  // return getContactsFromLocalStorage.length ? getContactsFromLocalStorage
+
+  // local storage
+  // get item
+  // useEffect(() => {
+  //   const contact = JSON.parse(localStorage.getItem("contact"));
+  //   if (contact) {
+  //     dispatch(contact);
+  //   }
+  // }, []);
+
+  // set item
+  // useEffect(() => {
+  //   localStorage.setItem("contact", JSON.stringify(contacts));
+  // }, [contacts]);
+
+  // const [editContacts, dispatchEditContact] = useReducer(contactReducer, {
+  //   status: false,
+  // });
+  // console.log({ contacts });
+
+  // const getContactsFromLocalStorage
+  // return getContactsFromLocalStorage.length ? getContactsFromLocalStorage
+
+  // local storage
+  // get item
+  // useEffect(() => {
+  //   const contact = JSON.parse(localStorage.getItem("contact"));
+  //   if (contact) {
+  //     dispatch(contact);
+  //   }
+  // }, []);
+
+  // set item
+  // useEffect(() => {
+  //   localStorage.setItem("contact", JSON.stringify(contacts));
+  // }, [contacts]);
