@@ -1,3 +1,4 @@
+import React from "react";
 import { images } from "../constant";
 import { useContactsDispatch } from "../context/contactContext";
 import { deleteContact, editContact } from "../context/actions";

@@ -1,3 +1,4 @@
+import React from "react";
 import { useContacts } from "../context/contactContext";
 import Contact from "./contact";
 
